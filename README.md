@@ -4,6 +4,11 @@ End-to-end cloud data engineering pipeline implementing Slowly Changing Dimensio
 
 ---
 
+# End-to-End Architecture
+
+![Architecture Diagram](09_pipeline_architecture_diagram.png)
+
+
 # Project Overview
 
 This project demonstrates a production-style modern data pipeline that:
