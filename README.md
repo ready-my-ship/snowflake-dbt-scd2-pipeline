@@ -60,37 +60,28 @@ Creates business-facing analytical views for downstream consumption.
 # Pipeline Screenshots
 
 ## AWS S3 Bucket
-![AWS S3 Bucket](01_aws_s3_bucket.png)
+![AWS S3](01_aws_s3_bucket.png)
 
----
+## Python S3 Upload Automation
+![Python Upload](02_python_s3_upload_script.png)
 
-## Python AWS Upload Script
-![Python Upload Script](02_python_s3_upload_script.png)
-
----
-
-## Snowflake Gold View
+## Snowflake Gold Layer View
 ![Snowflake Gold View](03_snowflake_gold_view.png)
 
----
-
-## SCD2 Version Tracking Example
-![SCD2 Version Tracking](04_scd2_version_tracking.png)
-
----
+## SCD2 Version Tracking
+![SCD2 Tracking](04_scd2_version_tracking.png)
 
 ## dbt Snapshot Logic
-![dbt Snapshot Logic](05_dbt_snapshot_logic.png)
-
----
+![dbt Snapshot](05_dbt_snapshot_logic.png)
 
 ## dbt Lineage Architecture
-![dbt Lineage Architecture](6_dbt_lineage_architecture.png)
+![dbt Lineage](06_dbt_lineage_architecture.png)
 
----
+## dbt Transformation Model
+![dbt Transform](07_dbt_transform_model.png)
 
-## dbt Transform Model
-![dbt Transform Model](07_dbt_transform_model.png)
+## Tableau Dashboard Visualization
+![Tableau Dashboard](08_tableau_dashboard.png)
 
 ---
 
