@@ -35,6 +35,8 @@ AWS S3 → Snowflake Bronze → dbt Transform Layer → dbt Snapshot (SCD2) → 
 - SCD Type 2
 - Data Warehousing
 - Cloud Data Engineering
+- Tableau
+- Business Intelligence Visualization
 
 ---
 
@@ -54,6 +56,12 @@ Python automation uploads source files into AWS S3 bucket storage.
 
 ## Gold Reporting Layer
 Creates business-facing analytical views for downstream consumption.
+
+---
+
+## Tableau Dashboard Integration
+
+Connects Snowflake Gold-layer analytical views to Tableau for downstream reporting and visualization.
 
 ---
 
